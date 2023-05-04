@@ -4,10 +4,10 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Kai Zhang
+    name: Dr. Kai Zhang
     tagline: Operational Research Scientist in Energy & Transport 
     avatar: photo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -55,7 +55,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a research scientist at Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A*STAR), Singapore.
+      I am currently a research scientist at Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A*STAR), Singapore.
       - 8 years R&D experience in energy and transport sector
       - Advanced knowledge in data analytics, numerical modelling & optimisation
       - Led and delivered 3 research projects and 1 industry project
