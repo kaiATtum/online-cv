@@ -55,18 +55,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      - 8 years R&D experience in energy and transport sector
+      - Advanced knowledge in data analytics, numerical modelling & optimisation
+      - Led and delivered 3 research projects and one industry project
+      - 20+ publications in top-tier journals and conferences 
 education:
     title: Education
     info:
       - degree: Ph.D. in Engineering
         university: Technical University of Munich
-        time: 2011 - 2012
+        time: 2016 - 2020
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -78,7 +76,7 @@ education:
     
       - degree: MSc in Electrical Engineering
         university: Technical University of Munich
-        time: 2011 - 2012
+        time: 2013 - 2016
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -89,7 +87,7 @@ education:
             - Bullet point
       - degree: BSc in Electrical Engineering
         university: University of Duisburg-Essen
-        time: 2007 - 2011
+        time: 2010 - 2013
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -149,19 +147,19 @@ projects:
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
+      - title: BSCSOPS
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
+      - title: SITEM
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
+      - title: PRIMO
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
+      - title: MESMO
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
