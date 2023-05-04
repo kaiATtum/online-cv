@@ -66,13 +66,9 @@ education:
         university: Technical University of Munich
         time: 2016 - 2020
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Doctorate study in energy economics forusing on energy system modeling, pricing mechanisms, equilibrium
+            - Dissertation: Spot Pricing Principles in Distribution Grids: From Local Market Organization to Multi-regional Coordination
+            - Advisor: Prof. Dr. Thomas Hamacher
     
       - degree: MSc in Electrical Engineering
         university: Technical University of Munich
