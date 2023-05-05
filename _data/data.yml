@@ -147,7 +147,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      Only selected articles and book chapters are listed.
+       Selected articles and book chapters: 
     papers:
       - title: "A Framework for Multi-Regional Real-Time Pricing in Distribution Grids"
         link: "#"
