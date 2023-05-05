@@ -151,10 +151,10 @@ publications:
     intro: |
       Only journal articles and book chapters are listed.
     papers:
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "Transition towards affordable electricity: Tools and methods"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: S. Troitzsch, S. Hanif, T. Massier, K. Zhang, B. A. Bhatti, A. Ahmed and M. J. Alam.
+        conference: "MDPI, E. Constable, Ed., Jun. 2022, vol. 7, ch. 2"
 
       - title: A syntax directed compiler for Algol 60
         link: "#"
