@@ -99,11 +99,7 @@ experiences:
         time: 2020 - 2020
         company: Tumcreate Ltd, Singapore
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          Project lead for project "Platform for Integrated Microgrid Operation"
             - Bullet point
             - Bullet point
       - role: Research Associate 
@@ -140,8 +136,8 @@ projects:
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
       - title: PRIMO
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        link: "https://www.tum-create.edu.sg/research/project/primo-%E2%80%94-platform-integrated-microgrid-operation"
+        tagline: "Platform for Integrated Microgrid Operation"
 
       - title: MESMO
         link: "#"
@@ -195,20 +191,18 @@ skills:
       - name: Python 
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Matlab
         level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: C++/C
+        level: 95%
+    
+      - name: Labview
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: SQL 
+        level: 80%
 
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
