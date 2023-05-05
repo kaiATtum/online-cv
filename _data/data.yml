@@ -67,7 +67,7 @@ education:
         university: Technical University of Munich
         time: 2016 - 2020
         details: |
-          Doctorate study in energy economics forusing on energy system modeling, pricing mechanisms, equilibrium
+          Doctorate study in energy economics forusing on energy system modeling, pricing mechanisms, game theory 
             - Dissertation: Spot Pricing Principles in Distribution Grids: From Local Market Organization to Multi-regional Coordination
             - Advisor: Prof. Dr. Thomas Hamacher
     
@@ -110,13 +110,9 @@ experiences:
         time: 2015 - 2020
         company: Tumcreate Ltd, Singapore
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Researcher in electricity distribution system modeling & distributed optimisation, market mechanisms and game theory  
+            - Supervision of 7 master thesis 
+            - Publication of 10+ scientic papers, book chapters
       - role: Student employee
         time: 2014 - 2015
         company: Infineon Technology, Germany
@@ -135,10 +131,6 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
       - title: BSCSOPS
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
@@ -200,7 +192,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python 
         level: 98%
 
       - name: Javascript & jQuery
