@@ -149,17 +149,38 @@ projects:
 publications:
     title: Publications
     intro: |
-      Only journal articles and book chapters are listed.
+      Only selected articles and book chapters are listed.
     papers:
+      - title: "A Framework for Multi-Regional Real-Time Pricing in Distribution Grids"
+        link: "#"
+        authors:  K, Zhang, S. Hanif, C. M. Hackl and T. Hamacher
+        conference: "IEEE Transactions on Smart Grid, vol. 10, no. 6, pp. 6826-6838, Nov. 2019"
+
+      - title: "Decomposition and Equilibrium Achieving Distribution Locational Marginal Prices Using Trust-Region Method"
+        link: "#"
+        authors:  S. Hanif, K, Zhang, C. M. Hackl, M. Barati, H. B. Gooi and T. Hamacherr
+        conference: "IEEE Transactions on Smart Grid, vol. 10, no. 3, pp. 3269-3281, May 2019"
+
+      - title: "Coordinated Market Design for Peer-to-Peer Energy Trade and Ancillary Services in Distribution Grids"
+        link: "#"
+        authors:  K, Zhang, S. Troitzsch, S. Hanif and T. Hamacher
+        conference: "IEEE Transactions on Smart Grid, vol. 11, no. 4, pp. 2929-2941, July 2020"
+
+      - title: "Transactive energy in an urban environment: A case study of local generation and flexibility potentials in a Singaporean urban district"
+        link: "#"
+        authors: K, Zhang, S. Troitzsch, S.-Y. Zhang, E. S. P. Teh, L. Subramanian, and T.  Massier
+        conference: "Frontiers in Energy Research, vol. 9, Frontiers, Mar. 2021, ISSN: 2296-598X"
+        
+      - title: "Distributionally Robust Co-optimized Offering for Transactive Multi-energy Microgrids"
+        link: "#"
+        authors: K, Zhang, Troitzsch, S., Han, X
+        conference: "International journal of electrical power and energy systems, Dec 2022"
+        
       - title: "Transition towards affordable electricity: Tools and methods"
         link: "#"
         authors: S. Troitzsch, S. Hanif, T. Massier, K. Zhang, B. A. Bhatti, A. Ahmed and M. J. Alam.
         conference: "MDPI, E. Constable, Ed., Jun. 2022, vol. 7, ch. 2"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
