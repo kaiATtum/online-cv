@@ -57,8 +57,8 @@ career-profile:
     title: Career Profile
     summary: |
       I am currently a research scientist at Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A*STAR), Singapore.
-      - 8 years R&D experience in energy and transport sector
       - Advanced knowledge in data analytics, numerical modelling & optimisation
+      - 8 years R&D experience in energy and transport sector
       - Led and delivered 3 research projects and 1 industry project
       - 20+ publications in top-tier journals and conferences 
 education:
@@ -126,9 +126,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    list
     assignments:
       - title: BSCS
         link: "#"
