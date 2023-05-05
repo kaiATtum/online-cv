@@ -84,7 +84,7 @@ education:
         details: |
           Bachelor courses focusing on nano engineering and information technology 
             - Bachelor Thesis "Überprüfen und Entwicklung des PowerModuls 2.0 (Validation and development of power moduals 2.0)"  
-            - Prof. Dr. Roland Schmechel 
+            - ADVISOR: Prof. Dr. Roland Schmechel 
 experiences:
     title: Experiences
     info:
@@ -129,40 +129,22 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: BSCSOPS
+      - title: BSCS
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Business models development and validation for battery swapping station integration into Singapore electricity market."
 
       - title: SITEM
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        link: "#https://www.tum-create.edu.sg/content/sitem-singapore-integrated-transport-and-energy-model"
+        tagline: "SITEM - Singapore Integrated Transport and Energy Model"
 
       - title: PRIMO
-        link: "https://www.tum-create.edu.sg/research/project/primo-%E2%80%94-platform-integrated-microgrid-operation"
+        link: "#https://www.tum-create.edu.sg/research/project/primo-%E2%80%94-platform-integrated-microgrid-operation"
         tagline: "Platform for Integrated Microgrid Operation"
 
       - title: MESMO
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        link: "#https://www.tum-create.edu.sg/research/project/mesmo-multi-energy-system-modelling-optimisation"
+        tagline: "Open-source Platform for Multi-Energy System Modelling & Optimisation"
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
