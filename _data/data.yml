@@ -16,7 +16,7 @@ sidebar:
     phone: 0065 89427964
     timezone: Singapore/GMT+8
     citizenship:
-    website: blog.webjeda.com #do not add http://
+    website: kaiattum.github.io/online-cv/ #do not add http://
     linkedin: kaizhangattum
     github: kaiATtum
     telegram: # add your nickname without '@' sign
@@ -153,10 +153,10 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: Transition towards affordable electricity: Tools and methods
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: S. Troitzsch, S. Hanif, T. Massier, \textbf{K. Zhang}, B. A. Bhatti, A. Ahmed and M. J. Alam,
+        conference: MDPI, E. Constable, Ed., Jun. 2022, vol. 7, ch. 2, DOI: 10.3390/books978-3-03897-777-3-2.
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
