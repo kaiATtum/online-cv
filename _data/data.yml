@@ -149,12 +149,12 @@ projects:
 publications:
     title: Publications
     intro: |
-      Only jounarl articles and book chapters are listed.
+      Only journal articles and book chapters are listed.
     papers:
       - title: Transition towards affordable electricity: Tools and methods
         link: "#"
         authors: S. Troitzsch, S. Hanif, T. Massier, K. Zhang, B. A. Bhatti, A. Ahmed and M. J. Alam,
-        conference: MDPI, E. Constable, Ed., Jun. 2022, vol. 7, ch. 2, DOI: 10.3390/books978-3-03897-777-3-2.
+        conference: MDPI, E. Constable, Ed., Jun. 2022, vol. 7, ch. 2,.
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
