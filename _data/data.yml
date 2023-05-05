@@ -21,7 +21,6 @@ sidebar:
     github: kaiATtum
     telegram: # add your nickname without '@' sign
     gitlab:
-    google scholar: https://scholar.google.com/citations?user=Xvj83rMAAAAJ&hl=en
     bitbucket:
     twitter: # '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -116,7 +115,7 @@ experiences:
         time: 2014 - 2015
         company: Infineon Technology, Germany
         details: |
-          Software development for object detection (reserve engineering department)
+          Software development for object detection (reverse engineering department)
       - role: Intern
         time: 2012 - 2013
         company: HELLA, Germany
