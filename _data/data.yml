@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: kaizhang@hotmail.de
-    phone: 0065 89427964
+    phone: +65 89427964
     timezone: Singapore/GMT+8
     citizenship:
     website: kaiattum.github.io/online-cv/ #do not add http://
@@ -21,8 +21,9 @@ sidebar:
     github: kaiATtum
     telegram: # add your nickname without '@' sign
     gitlab:
+    google scholar: https://scholar.google.com/citations?user=Xvj83rMAAAAJ&hl=en
     bitbucket:
-    twitter: '@webjeda'
+    twitter: # '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
