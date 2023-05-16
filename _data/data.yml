@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Dr. Kai Zhang
-    tagline: Scientist in energy economics | Singapore PR
+    tagline: Scientist in Operational Research | Singapore PR
     avatar: photo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -57,13 +57,13 @@ career-profile:
     summary: |
       I am currently an operational research scientist at Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A*STAR), Singapore. I have 
       - Advanced knowledge in data analytics, numerical modelling & optimisation, software development
-      - 8 years R&D experience in energy market and software development
+      - 8 years R&D experience in energy and transport sector
       - Led and delivered 3 research projects and 1 industry project
       - 20+ publications in top-tier journals and conferences 
 education:
     title: Education
     info:
-      - degree: Ph.D. in Energy Ecnomics
+      - degree: Ph.D. in electrical engineering
         university: Technical University of Munich
         time: 2016 - 2020
         details: |
