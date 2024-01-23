@@ -55,10 +55,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am currently an operational research scientist at Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A*STAR), Singapore. I have 
+      I am currently an senior market analyst at Energy Exemplar, Singapore. I have 
       - Advanced knowledge in data analytics, numerical modelling & optimisation, software development
-      - 8 years R&D experience in energy and transport sector
-      - Led and delivered 3 research projects and 1 industry project
+      - 10 years R&D experience in energy and transport sector
+      - Led and delivered industry and research projects in private and public sectors
       - 20+ publications in top-tier journals and conferences 
 education:
     title: Education
@@ -88,8 +88,18 @@ education:
 experiences:
     title: Experiences
     info:
+        - role: Senior Market Analyst
+        time: 2023 - Present
+        company: Energy Exempla, Singapore
+        details: |
+          Modeling & Optimisation (PLEXOS)
+            - Singapore electricity market clearing engine modeling and simulation
+            - Short-term/Long-term hydro system operation modelling and optimisation 
+            - Electric/Gas/Industry process co-optimisation
+            - Develop project road map, organize team objectives and goals, provide mentoring and training to junior engineers
+            - Automation implementation (C++//Python)
       - role: Scientist
-        time: 2022 - Present
+        time: 2022 - 2023
         company: Agency for Science, Technology and Research (A*STAR), Singapore
         details: |
           Sceintist in energy and transport domain, conducting research on topics in energy system planning, operation, simulation and optimisation model development. Role includes: 
