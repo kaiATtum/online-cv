@@ -55,7 +55,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am currently an senior market analyst at Energy Exemplar, Singapore. I have 
+      I am currently an senior market analyst at Energy Exemplar, Singapore. I have
       - Advanced knowledge in data analytics, numerical modelling & optimisation, software development
       - 10 years R&D experience in energy and transport sector
       - Led and delivered industry and research projects in private and public sectors
@@ -97,7 +97,7 @@ experiences:
             - Short-term/Long-term hydro system operation modelling and optimisation 
             - Electric/Gas/Industry process co-optimisation
             - Develop project road map, organize team objectives and goals, provide mentoring and training to junior engineers
-            - Automation implementation (C++//Python)
+            - Automation implementation (C++ & Python)
       - role: Scientist
         time: 2022 - 2023
         company: Agency for Science, Technology and Research (A*STAR), Singapore
