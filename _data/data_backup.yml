@@ -88,54 +88,72 @@ education:
 experiences:
     title: Experiences
     info:
-        - role: Team Lead, Solutions
-          time: Jun 2024 - Present
-          company: Energy Exemplar, Singapore
-          details: |
-            - Cross-functional solution prototyping integrating fundamental modeling, statistical modeling, and deep learning; requirements gathering, configuration, testing, and go-live
-            - Led presales engagements across SEA & Greater China; partnered with sales teams to articulate value and develop tailored use cases
-            - Led the solutions team; provided mentorship, knowledge sharing, and capability uplift to support complex modeling and energy market insights
         - role: Senior Market Analyst
-          time: Jul 2023 - Jun 2024
-          company: Energy Exemplar, Singapore
-          details: |
-            - Engineer/modeler for operational research topics in energy, process, and finance
-            - Identified and evaluated new revenue-stream opportunities
-            - Led implementation projects and pre-sales activities
-        - role: Scientist
-          time: 2022 - 2023
-          company: Agency for Science, Technology and Research (A*STAR), Singapore
-          details: |
-            Sceintist in energy and transport domain, conducting research on topics in energy system planning, operation, simulation and optimisation model development. Role includes: 
-              - Principle investigator - Project "Optimisation for battery swapping station integration in electricity market"
-              - Contributor - Project "SITEM - Singapore Integrated Transport and Energy Model"
-        - role: Research Fellow
-          time: 2020 - 2022
-          company: Tumcreate Ltd, Singapore
-          details: |
-            Project lead for project "Platform for Integrated Microgrid Operation"
-              - Project conceptualisation, planning & management
-              - Research in networked microgrids studies & model development & software architecture design & development   
-              - Managed a team of 5 researchers from Tumcreate, EDF singapore, SIT & NTU   
-              - Supervision of internships & junior researchers 
-        - role: Research Associate 
-          time: 2015 - 2020
-          company: Tumcreate Ltd, Singapore
-          details: |
-            Researcher in electricity distribution system modeling & distributed optimisation, market mechanisms and game theory  
-              - Supervision of 7 master thesis 
-              - Publication of 10+ scientic papers, book chapters
-        - role: Student employee
-          time: 2014 - 2015
-          company: Infineon Technology, Germany
-          details: |
-            Software development for object detection (reverse engineering department)
-        - role: Intern
-          time: 2012 - 2013
-          company: HELLA, Germany
-          details: |
-            Software development for driving assistance system
+        time: 2023 - Present
+        company: Energy Exempla, Singapore
+        details: |
+          Modeling & Optimisation (PLEXOS)
+            - Singapore electricity market clearing engine modeling and simulation
+            - Short-term/Long-term hydro system operation modelling and optimisation 
+            - Electric/Gas/Industry process co-optimisation
+            - Develop project road map, organize team objectives and goals, provide mentoring and training to junior engineers
+            - Automation implementation (C++ & Python)
+      - role: Scientist
+        time: 2022 - 2023
+        company: Agency for Science, Technology and Research (A*STAR), Singapore
+        details: |
+          Sceintist in energy and transport domain, conducting research on topics in energy system planning, operation, simulation and optimisation model development. Role includes: 
+            - Principle investigator - Project "Optimisation for battery swapping station integration in electricity market"
+            - Contributor - Project "SITEM - Singapore Integrated Transport and Energy Model"
+      - role: Research Fellow
+        time: 2020 - 2022
+        company: Tumcreate Ltd, Singapore
+        details: |
+          Project lead for project "Platform for Integrated Microgrid Operation"
+            - Project conceptualisation, planning & management
+            - Research in networked microgrids studies & model development & software architecture design & development   
+            - Managed a team of 5 researchers from Tumcreate, EDF singapore, SIT & NTU   
+            - Supervision of internships & junior researchers 
+      - role: Research Associate 
+        time: 2015 - 2020
+        company: Tumcreate Ltd, Singapore
+        details: |
+          Researcher in electricity distribution system modeling & distributed optimisation, market mechanisms and game theory  
+            - Supervision of 7 master thesis 
+            - Publication of 10+ scientic papers, book chapters
+      - role: Student employee
+        time: 2014 - 2015
+        company: Infineon Technology, Germany
+        details: |
+          Software development for object detection (reverse engineering department)
+      - role: Intern
+        time: 2012 - 2013
+        company: HELLA, Germany
+        details: |
+          Software development for driving assistance system
     
+projects:
+    title: Projects
+    intro: >
+      Complete list
+    assignments:
+      - title: BSCS
+        link: "#"
+        tagline: "Business models development and validation for battery swapping station integration into Singapore electricity market."
+
+      - title: SITEM
+        link: "#https://www.tum-create.edu.sg/content/sitem-singapore-integrated-transport-and-energy-model"
+        tagline: "Singapore Integrated Transport and Energy Model"
+
+      - title: PRIMO
+        link: "#https://www.tum-create.edu.sg/research/project/primo-%E2%80%94-platform-integrated-microgrid-operation"
+        tagline: "Platform for Integrated Microgrid Operation"
+
+      - title: MESMO
+        link: "#https://www.tum-create.edu.sg/research/project/mesmo-multi-energy-system-modelling-optimisation"
+        tagline: "Open-source Platform for Multi-Energy System Modelling & Optimisation"
+
+
 publications:
     title: Publications
     intro: |
