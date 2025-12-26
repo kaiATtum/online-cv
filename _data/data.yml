@@ -60,31 +60,6 @@ career-profile:
       - 10 years R&D experience in energy and transport sector
       - Led and delivered industry and research projects in private and public sectors
       - 20+ publications in top-tier journals and conferences 
-education:
-    title: Education
-    info:
-      - degree: Ph.D. in electrical engineering
-        university: Technical University of Munich
-        time: 2016 - 2020
-        details: |
-          Doctorate study in energy economics forusing on energy system modeling, pricing mechanisms, game theory 
-            - Dissertation: Spot Pricing Principles in Distribution Grids: From Local Market Organization to Multi-regional Coordination
-            - Advisor: Prof. Dr. Thomas Hamacher
-    
-      - degree: MSc in Electrical Engineering 
-        university: Technical University of Munich
-        time: 2013 - 2016
-        details: |
-          Master courses focusing on embeded system and control engineering
-            - Master Thesis: "Charging Demonstrator for Ancillary Service Provision in Smart Grids"
-            - Advisor: Prof. Dr. Thomas Hamacher
-      - degree: BSc in Electrical Engineering
-        university: University of Duisburg-Essen
-        time: 2010 - 2013
-        details: |
-          Bachelor courses focusing on nano engineering and information technology 
-            - Bachelor Thesis "Überprüfen und Entwicklung des PowerModuls 2.0 (Validation and development of power moduals 2.0)"  
-            - Advisor: Prof. Dr. Roland Schmechel 
 experiences:
     title: Experiences
     info:
@@ -131,28 +106,32 @@ experiences:
         company: HELLA, Germany
         details: |
           Software development for driving assistance system
+education:
+    title: Education
+    info:
+      - degree: Ph.D. in electrical engineering
+        university: Technical University of Munich
+        time: 2016 - 2020
+        details: |
+          Doctorate study in energy economics forusing on energy system modeling, pricing mechanisms, game theory 
+            - Dissertation: Spot Pricing Principles in Distribution Grids: From Local Market Organization to Multi-regional Coordination
+            - Advisor: Prof. Dr. Thomas Hamacher
     
-projects:
-    title: Projects
-    intro: >
-      Complete list
-    assignments:
-      - title: BSCS
-        link: "#"
-        tagline: "Business models development and validation for battery swapping station integration into Singapore electricity market."
-
-      - title: SITEM
-        link: "#https://www.tum-create.edu.sg/content/sitem-singapore-integrated-transport-and-energy-model"
-        tagline: "Singapore Integrated Transport and Energy Model"
-
-      - title: PRIMO
-        link: "#https://www.tum-create.edu.sg/research/project/primo-%E2%80%94-platform-integrated-microgrid-operation"
-        tagline: "Platform for Integrated Microgrid Operation"
-
-      - title: MESMO
-        link: "#https://www.tum-create.edu.sg/research/project/mesmo-multi-energy-system-modelling-optimisation"
-        tagline: "Open-source Platform for Multi-Energy System Modelling & Optimisation"
-
+      - degree: MSc in Electrical Engineering 
+        university: Technical University of Munich
+        time: 2013 - 2016
+        details: |
+          Master courses focusing on embeded system and control engineering
+            - Master Thesis: "Charging Demonstrator for Ancillary Service Provision in Smart Grids"
+            - Advisor: Prof. Dr. Thomas Hamacher
+      - degree: BSc in Electrical Engineering
+        university: University of Duisburg-Essen
+        time: 2010 - 2013
+        details: |
+          Bachelor courses focusing on nano engineering and information technology 
+            - Bachelor Thesis "Überprüfen und Entwicklung des PowerModuls 2.0 (Validation and development of power moduals 2.0)"  
+            - Advisor: Prof. Dr. Roland Schmechel 
+    
 
 publications:
     title: Publications
